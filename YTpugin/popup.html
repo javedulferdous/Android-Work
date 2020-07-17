@@ -1,0 +1,70 @@
+<!doctype html>
+<html>
+  <head>
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <title>YouTube Videos controller</title>
+    <style>
+      body {
+            width: 300px;
+            font-family: 'Source Sans Pro', sans-serif;
+        }
+        .title {
+            font-weight: 700;
+            margin-top: 20px;
+            margin-bottom: 15px;
+            text-transform: uppercase;
+        }
+        label, input, select, .input-group-addon, .btn {
+            font-weight: 300;
+        }
+      #status {
+        /* avoid an excessively wide status text */
+        white-space: pre;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        max-width: 400px;
+      }
+    </style>
+   
+    <script src="videoNav.js"></script>
+  </head>
+  <body>
+    <form>
+    <div class="form-group">
+    <div class="col-xs-12">    
+    <button style="align:right" class="btn btn-primary btn-lg btn-block" id="playVideo"> Play </button><br/>
+    <button style="align:right" class="btn btn-primary btn-lg btn-block" id="pauseVideo"> Pause </button><br/>
+    <button style="align:right" class="btn btn-primary btn-lg btn-block" id="nextUp"> Next </button><br/>
+    <button style="align:right" class="btn btn-primary btn-lg btn-block" id="previousUp">Previous</button>
+    </div>
+    
+    <div class="form-group">
+          <div class="col-xs-12">
+          <label class="control-label">Playback Speed</label>
+    </div>
+    <div class="col-xs-9">
+                    <div class="input-group">
+                        <div class="input-group-btn">
+                            <select class="form-control" id="speedInfo">
+                                <option>0.1</option>
+                                <option>0.15</option>
+                                <option>0.25</option>
+                                <option>0.5</option>
+                                <option selected>1</option>
+                                <option>1.5</option>
+                                <option>2</option>
+                                <option>5</option>
+                                <option>10</option>
+                                <option>15</option>
+
+                            </select>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-3">
+                    <button class="btn btn-primary" id="speedUp">Submit</button>
+                </div>
+    </form>
+  </body>
+</html>

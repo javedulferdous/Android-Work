@@ -1,0 +1,121 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\jafra\OneDrive\Desktop\A\GestureVideoProject\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\jafra\OneDrive\Desktop\A\GestureVideoProject\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\jafra\OneDrive\Desktop\A\GestureVideoProject\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\jafra\OneDrive\Desktop\A\GestureVideoProject\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\jafra\.gradle\caches\transforms-2\files-2.1\def26274c89bfa88ca4399a66e314f0a\appcompat-v7-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\jafra\.gradle\caches\transforms-2\files-2.1\cb20b76ed225fe8217fdebe6b4cd159d\constraint-layout-1.0.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.5.0] C:\Users\jafra\.gradle\caches\transforms-2\files-2.1\84ea50f68a94b0e90594f3a87a415f07\glide-4.5.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\jafra\.gradle\caches\transforms-2\files-2.1\60d26bf40d45b5d550055174b8e9dadf\support-fragment-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\jafra\.gradle\caches\transforms-2\files-2.1\84cfde39650abaa185f1ef8c3ed279f2\animated-vector-drawable-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\jafra\.gradle\caches\transforms-2\files-2.1\f630551f867b074688b257b3d7ba5d87\support-core-ui-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\jafra\.gradle\caches\transforms-2\files-2.1\c30db6f7e3e4d5c4b5353f6dbd1fd9b3\support-core-utils-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\jafra\.gradle\caches\transforms-2\files-2.1\8733a363450dd48c630357804c19b1e6\support-vector-drawable-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.5.0] C:\Users\jafra\.gradle\caches\transforms-2\files-2.1\0c44bd62291886bad87e5a238dfc9202\gifdecoder-4.5.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\jafra\.gradle\caches\transforms-2\files-2.1\f193a451298a132103515b1cc52b39c9\support-compat-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\jafra\.gradle\caches\transforms-2\files-2.1\06e084fcde9c4549fc294d5fcf377d7c\livedata-core-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\jafra\.gradle\caches\transforms-2\files-2.1\58707b756588e8d18ddbe512adc6dcdf\viewmodel-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\jafra\.gradle\caches\transforms-2\files-2.1\3760d8ea4fed3bd7e04285d253c1b3a4\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\jafra\.gradle\caches\transforms-2\files-2.1\3a180f34418bc86b05d3c330452a2346\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\jafra\OneDrive\Desktop\A\GestureVideoProject\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\jafra\OneDrive\Desktop\A\GestureVideoProject\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\jafra\OneDrive\Desktop\A\GestureVideoProject\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\Users\jafra\OneDrive\Desktop\A\GestureVideoProject\app\src\main\AndroidManifest.xml:3:11-47
+		INJECTED from C:\Users\jafra\OneDrive\Desktop\A\GestureVideoProject\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jafra\OneDrive\Desktop\A\GestureVideoProject\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\jafra\OneDrive\Desktop\A\GestureVideoProject\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jafra\OneDrive\Desktop\A\GestureVideoProject\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\jafra\OneDrive\Desktop\A\GestureVideoProject\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\jafra\OneDrive\Desktop\A\GestureVideoProject\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jafra\OneDrive\Desktop\A\GestureVideoProject\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\jafra\OneDrive\Desktop\A\GestureVideoProject\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\jafra\OneDrive\Desktop\A\GestureVideoProject\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\jafra\OneDrive\Desktop\A\GestureVideoProject\app\src\main\AndroidManifest.xml:4:5-80
+	android:name
+		ADDED from C:\Users\jafra\OneDrive\Desktop\A\GestureVideoProject\app\src\main\AndroidManifest.xml:4:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\jafra\OneDrive\Desktop\A\GestureVideoProject\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\jafra\OneDrive\Desktop\A\GestureVideoProject\app\src\main\AndroidManifest.xml:5:22-77
+application
+ADDED from C:\Users\jafra\OneDrive\Desktop\A\GestureVideoProject\app\src\main\AndroidManifest.xml:6:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\jafra\.gradle\caches\transforms-2\files-2.1\cb20b76ed225fe8217fdebe6b4cd159d\constraint-layout-1.0.2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\jafra\.gradle\caches\transforms-2\files-2.1\cb20b76ed225fe8217fdebe6b4cd159d\constraint-layout-1.0.2\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.5.0] C:\Users\jafra\.gradle\caches\transforms-2\files-2.1\84ea50f68a94b0e90594f3a87a415f07\glide-4.5.0\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.5.0] C:\Users\jafra\.gradle\caches\transforms-2\files-2.1\84ea50f68a94b0e90594f3a87a415f07\glide-4.5.0\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.5.0] C:\Users\jafra\.gradle\caches\transforms-2\files-2.1\0c44bd62291886bad87e5a238dfc9202\gifdecoder-4.5.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.5.0] C:\Users\jafra\.gradle\caches\transforms-2\files-2.1\0c44bd62291886bad87e5a238dfc9202\gifdecoder-4.5.0\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\jafra\OneDrive\Desktop\A\GestureVideoProject\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\Users\jafra\OneDrive\Desktop\A\GestureVideoProject\app\src\main\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from C:\Users\jafra\OneDrive\Desktop\A\GestureVideoProject\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from C:\Users\jafra\OneDrive\Desktop\A\GestureVideoProject\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from C:\Users\jafra\OneDrive\Desktop\A\GestureVideoProject\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\jafra\OneDrive\Desktop\A\GestureVideoProject\app\src\main\AndroidManifest.xml:12:9-40
+activity#_gesture.com.gesturesvideo.MainActivity
+ADDED from C:\Users\jafra\OneDrive\Desktop\A\GestureVideoProject\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from C:\Users\jafra\OneDrive\Desktop\A\GestureVideoProject\app\src\main\AndroidManifest.xml:13:19-73
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\jafra\OneDrive\Desktop\A\GestureVideoProject\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\jafra\OneDrive\Desktop\A\GestureVideoProject\app\src\main\AndroidManifest.xml:15:17-68
+	android:name
+		ADDED from C:\Users\jafra\OneDrive\Desktop\A\GestureVideoProject\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\jafra\OneDrive\Desktop\A\GestureVideoProject\app\src\main\AndroidManifest.xml:17:17-76
+	android:name
+		ADDED from C:\Users\jafra\OneDrive\Desktop\A\GestureVideoProject\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from C:\Users\jafra\OneDrive\Desktop\A\GestureVideoProject\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\jafra\OneDrive\Desktop\A\GestureVideoProject\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\jafra\OneDrive\Desktop\A\GestureVideoProject\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\jafra\.gradle\caches\transforms-2\files-2.1\def26274c89bfa88ca4399a66e314f0a\appcompat-v7-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\jafra\.gradle\caches\transforms-2\files-2.1\def26274c89bfa88ca4399a66e314f0a\appcompat-v7-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\jafra\.gradle\caches\transforms-2\files-2.1\cb20b76ed225fe8217fdebe6b4cd159d\constraint-layout-1.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\jafra\.gradle\caches\transforms-2\files-2.1\cb20b76ed225fe8217fdebe6b4cd159d\constraint-layout-1.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.5.0] C:\Users\jafra\.gradle\caches\transforms-2\files-2.1\84ea50f68a94b0e90594f3a87a415f07\glide-4.5.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.5.0] C:\Users\jafra\.gradle\caches\transforms-2\files-2.1\84ea50f68a94b0e90594f3a87a415f07\glide-4.5.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\jafra\.gradle\caches\transforms-2\files-2.1\60d26bf40d45b5d550055174b8e9dadf\support-fragment-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\jafra\.gradle\caches\transforms-2\files-2.1\60d26bf40d45b5d550055174b8e9dadf\support-fragment-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\jafra\.gradle\caches\transforms-2\files-2.1\84cfde39650abaa185f1ef8c3ed279f2\animated-vector-drawable-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\jafra\.gradle\caches\transforms-2\files-2.1\84cfde39650abaa185f1ef8c3ed279f2\animated-vector-drawable-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\jafra\.gradle\caches\transforms-2\files-2.1\f630551f867b074688b257b3d7ba5d87\support-core-ui-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\jafra\.gradle\caches\transforms-2\files-2.1\f630551f867b074688b257b3d7ba5d87\support-core-ui-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\jafra\.gradle\caches\transforms-2\files-2.1\c30db6f7e3e4d5c4b5353f6dbd1fd9b3\support-core-utils-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\jafra\.gradle\caches\transforms-2\files-2.1\c30db6f7e3e4d5c4b5353f6dbd1fd9b3\support-core-utils-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\jafra\.gradle\caches\transforms-2\files-2.1\8733a363450dd48c630357804c19b1e6\support-vector-drawable-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\jafra\.gradle\caches\transforms-2\files-2.1\8733a363450dd48c630357804c19b1e6\support-vector-drawable-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.5.0] C:\Users\jafra\.gradle\caches\transforms-2\files-2.1\0c44bd62291886bad87e5a238dfc9202\gifdecoder-4.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.5.0] C:\Users\jafra\.gradle\caches\transforms-2\files-2.1\0c44bd62291886bad87e5a238dfc9202\gifdecoder-4.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\jafra\.gradle\caches\transforms-2\files-2.1\f193a451298a132103515b1cc52b39c9\support-compat-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\jafra\.gradle\caches\transforms-2\files-2.1\f193a451298a132103515b1cc52b39c9\support-compat-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\jafra\.gradle\caches\transforms-2\files-2.1\06e084fcde9c4549fc294d5fcf377d7c\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\jafra\.gradle\caches\transforms-2\files-2.1\06e084fcde9c4549fc294d5fcf377d7c\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\jafra\.gradle\caches\transforms-2\files-2.1\58707b756588e8d18ddbe512adc6dcdf\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\jafra\.gradle\caches\transforms-2\files-2.1\58707b756588e8d18ddbe512adc6dcdf\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\jafra\.gradle\caches\transforms-2\files-2.1\3760d8ea4fed3bd7e04285d253c1b3a4\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\jafra\.gradle\caches\transforms-2\files-2.1\3760d8ea4fed3bd7e04285d253c1b3a4\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\jafra\.gradle\caches\transforms-2\files-2.1\3a180f34418bc86b05d3c330452a2346\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\jafra\.gradle\caches\transforms-2\files-2.1\3a180f34418bc86b05d3c330452a2346\runtime-1.1.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\jafra\OneDrive\Desktop\A\GestureVideoProject\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\jafra\OneDrive\Desktop\A\GestureVideoProject\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\jafra\OneDrive\Desktop\A\GestureVideoProject\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jafra\OneDrive\Desktop\A\GestureVideoProject\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jafra\OneDrive\Desktop\A\GestureVideoProject\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\jafra\OneDrive\Desktop\A\GestureVideoProject\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jafra\OneDrive\Desktop\A\GestureVideoProject\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jafra\OneDrive\Desktop\A\GestureVideoProject\app\src\main\AndroidManifest.xml

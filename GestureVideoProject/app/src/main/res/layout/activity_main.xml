@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="100">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp" />
+
+    <VideoView
+        android:id="@+id/videoView"
+        android:layout_width="350dp"
+        android:layout_height="250dp"
+        android:layout_margin="25dp"
+        android:layout_marginStart="00dp"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginRight="0dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="410dp"
+        android:layout_height="70dp"
+        android:layout_marginStart="25dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="300dp"
+        android:layout_marginEnd="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginBottom="25dp"
+        android:text="@string/textview" />
+
+    <Button
+        android:id="@+id/button"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="50dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="400dp"
+        android:layout_marginEnd="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginBottom="50dp"
+        android:onClick="startButton"
+        android:text="@string/start" />
+
+    <Button
+        android:id="@+id/button2"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="50dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="450dp"
+        android:layout_marginEnd="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginBottom="50dp"
+        android:onClick="restartButton"
+        android:text="@string/restart" />
+
+    <Button
+        android:id="@+id/button4"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="250dp"
+        android:layout_marginLeft="250dp"
+        android:layout_marginTop="450dp"
+        android:layout_marginEnd="250dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginBottom="50dp"
+        android:onClick="stopButton"
+        android:text="@string/stop" />
+
+    <Button
+        android:id="@+id/button3"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="250dp"
+        android:layout_marginLeft="250dp"
+        android:layout_marginTop="400dp"
+        android:layout_marginEnd="250dp"
+        android:layout_marginBottom="250dp"
+        android:onClick="pauseButton"
+        android:text="@string/pause" />
+
+</RelativeLayout>

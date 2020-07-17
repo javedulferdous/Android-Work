@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gesture Video Project</string>
+    <string name="textview">TextView</string>
+    <string name="start">Start</string>
+    <string name="restart">Restart</string>
+    <string name="pause">pause</string>
+    <string name="stop">stop</string>
+</resources>
